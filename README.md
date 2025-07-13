@@ -11,7 +11,7 @@ I've been learning to code for 3 years, working in a variety of languages and to
 * ✉️  You can contact me at [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
 * 🚀  I'm currently working on [Chess Engine](http://google.com)
 * 🧠  I'm learning Scala and C++
-* ⚡  Think only about your art.
+* ⚡   "Never let success get to your head and never let failure get to your heart"
 
 ### Skills
 
