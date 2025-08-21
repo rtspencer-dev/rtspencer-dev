@@ -7,10 +7,10 @@ High School Student
 I've been learning to code for 3 years, working in a variety of languages and topics. Aside from coding, my hobbies are tennis, soccer, and music.
 
 * 🌍  I'm based in Chicago, IL
-* 🖥️  See my portfolio at [Work in Progress](http://rtspencer.com)
+* 🖥️  See my portfolio at [rtspencer.com](http://rtspencer.com)
 * ✉️  You can contact me at [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
 * 🚀  I'm currently working on [Origami Benchmark](http://google.com)
-* 🧠  I'm learning C++
+* 🧠  I'm learning C++ and multi-variable calculus.
 * ⚡   "Never let success get to your head and never let failure get to your heart"
 
 ### Skills
