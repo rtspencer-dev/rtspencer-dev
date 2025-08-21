@@ -4,7 +4,7 @@ Hi 👋 My name is Ryan Spencer
 High School Student
 -------------------
 
-I've been learning to code for 3 years, working in a variety of languages and topics. Aside from coding, my hobbies are tennis, soccer, and music.
+I've been learning to code for 3 years, working in a variety of languages and topics. In the future, I hope to pursue degrees in data science and economics.
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [rtspencer.com](http://rtspencer.com)
