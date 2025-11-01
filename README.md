@@ -4,13 +4,13 @@ Hi 👋 My name is Ryan Spencer
 High School Student
 -------------------
 
-I've been learning to code for 3 years, working in a variety of languages and topics. In the future, I hope to pursue degrees in data science and economics.
+I've been learning to code for 4 years, working in a variety of languages and topics. In the future, I hope to pursue degrees in computer science and business.
 
 * 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [rtspencer.com](http://rtspencer.com)
 * ✉️  You can contact me at [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
-* 🚀  I'm currently working on [Origami Benchmark](http://google.com)
-* 🧠  I'm learning C++ and multi-variable calculus.
+* 🚀  I'm currently working on [QuantQuest](http://rtspencer.com/#work)
+* 🧠  I'm learning financial modeling.
 * ⚡   "Never let success get to your head and never let failure get to your heart"
 
 ### Skills
