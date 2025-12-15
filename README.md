@@ -6,7 +6,6 @@ High School Student
 
 I've been learning to code for 4 years, working in a variety of languages and topics. In the future, I hope to pursue degrees in computer science and business.
 
-* 🌍  I'm based in Chicago, IL
 * 🖥️  See my portfolio at [rtspencer.com](http://rtspencer.com)
 * ✉️  You can contact me at [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
 * 🚀  I'm currently working on [QuantQuest](http://rtspencer.com/#work)
