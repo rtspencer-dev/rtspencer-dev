@@ -8,9 +8,8 @@ I've been learning to code for 4 years, working in a variety of languages and to
 
 * 🖥️  See my portfolio at [rtspencer.com](http://rtspencer.com)
 * ✉️  You can contact me at [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
-* 🚀  I'm currently working on [Soccer Analytics](https://github.com/rtspencer-dev/predictive-soccer-analytics/)
-* 🧠  I'm also learning multivariable calculus and basic financial modeling.
-* ⚡   "Never let success get to your head and never let failure get to your heart"
+* 🚀  I'm currently working on [QuantQuest](https://github.com/rtspencer-dev/QuantQuest)
+* ⚡   "Trust the process"
 
 ### Skills
 
