@@ -6,7 +6,10 @@ As a senior in high school, my goal is to pursue the intersection of Data Scienc
 I'm always open to learning new technologies and contributing to meaningful projects.
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/rtspencer-bd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="rtspencer.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square" alt="Portfolio"></a> </p>
+
+- See my portfolio at [rtspencer.com](https://rtspencer.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rtspencer-bd/)
+- Feel free to reach out to [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
 
 ## Skills
 
