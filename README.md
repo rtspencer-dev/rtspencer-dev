@@ -5,12 +5,6 @@ As a senior in high school, my goal is to pursue the intersection of Data Scienc
 
 I'm always open to learning new technologies and contributing to meaningful projects.
 
-## Contact Me
-
-- See my portfolio at [rtspencer.com](https://rtspencer.com)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/rtspencer-bd/)
-- Feel free to reach out to [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
-
 ## Skills
 
 <p align="left">
@@ -29,3 +23,8 @@ I'm always open to learning new technologies and contributing to meaningful proj
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtspencer-dev&theme=default" alt="GitHub Streak" />
 
+## Contact Me
+
+- See my portfolio at [rtspencer.com](https://rtspencer.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rtspencer-bd/)
+- Feel free to reach out to [rtspencer.bd@gmail.com](mailto:rtspencer.bd@gmail.com)
